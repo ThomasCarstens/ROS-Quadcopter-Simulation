@@ -1,4 +1,4 @@
-# Testing this simulator for compatibility with our Drone Racing Stack
+# Simulator under testing for compatibility with our Drone Racing Stack
 ![Changelog](https://github.com/ThomasCarstens/ROS-Quadcopter-Simulation/changelog12mai.PNG)
 ---------------------------------------------------------------------------
 # ROS-Quadcopter-Simulation
