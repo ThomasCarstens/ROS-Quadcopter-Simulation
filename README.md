@@ -1,4 +1,6 @@
-
+# Testing this simulator for compatibility with our Drone Racing Stack
+![Changelog](https://github.com/ThomasCarstens/ROS-Quadcopter-Simulation/changelog12mai.PNG)
+---------------------------------------------------------------------------
 # ROS-Quadcopter-Simulation
 This is an on-going project on simulating drone and stabilizing it using Approximate Dynamic Programming on ROS-Gazebo (melodic version of ROS and Gazebo version 9)
 
